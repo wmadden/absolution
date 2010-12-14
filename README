@@ -1,0 +1,5 @@
+Absolution is a CSS framework based on absolute positioning. This is made obsolete by the CSS3
+property 'box-sizing'.
+
+Until then, though, it gives you h- and v-boxes that will size to fill their parent container for
+creating screen layouts - not pages.
